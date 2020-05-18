@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name keysafe_v1-rescue)(type Legacy)(uri ${KIPRJMOD}/keysafe_v1-rescue.lib)(options "")(descr ""))
+  (lib (name tlv73333pdqnt)(type Legacy)(uri ${KIPRJMOD}/libs/tlv73333pdqnt.lib)(options "")(descr ""))
+  (lib (name tlv73333pdbvt)(type Legacy)(uri ${KIPRJMOD}/libs/tlv73333pdbvt.lib)(options "")(descr ""))
+  (lib (name tar5s15-tar5s50)(type Legacy)(uri ${KIPRJMOD}/symbols/tar5s15-tar5s50.lib)(options "")(descr ""))
+)
